@@ -1,55 +1,56 @@
-ads.elpais.com
-ads.elmundo.es
-ads.marca.com
-ads.as.com
-ads.abc.es
-ads.telecinco.es
-ads.antena3.com
-ads.lasexta.com
-ads.20minutos.es
-ads.elconfidencial.com
-ads.expansion.com
-ads.larazon.es
-ads.vanitatis.elconfidencial.com
-ads.eleconomista.es
-ads.europapress.es
-ads.libertaddigital.com
-ads.publico.es
-ads.elplural.com
-ads.vozpopuli.com
-ads.elindependiente.com
-ads.noticiasdegipuzkoa.eus
-ads.diariovasco.com
-ads.elcorreo.com
-ads.lavanguardia.com
-ads.lasprovincias.es
-ads.elperiodico.com
-ads.diariodesevilla.es
-ads.diariosur.es
-ads.farodevigo.es
-ads.elcomercio.es
-ads.elprogreso.es
-ads.lavozdegalicia.es
-ads.elnortedecastilla.es
-ads.laopiniondemalaga.es
-ads.eldia.es
-ads.ultimahora.es
-ads.eldiariomontanes.es
-ads.levante-emv.com
-ads.lavozdigital.es
-ads.diariodeleon.es
-ads.elnortedecastilla.es
-ads.hoy.es
-ads.laverdad.es
-ads.noticiasdealava.eus
-ads.elcorreo.com
-ads.diarioinformacion.com
-ads.diariodeburgos.es
-ads.laopinioncoruna.es
-ads.diariodeteruel.com
-ads.elperiodicomediterraneo.com
-ads.diariodejerez.es
-ads.elcorreo.com
-ads.elperiodicoextremadura.com
-ads.diariodetoledo.es
-ads.elperiodicodearagon.com
+0.0.0.0 ads.elpais.com
+0.0.0.0 ads.elmundo.es
+0.0.0.0 ads.marca.com
+0.0.0.0 ads.as.com
+0.0.0.0 ads.abc.es
+0.0.0.0 ads.telecinco.es
+0.0.0.0 ads.antena3.com
+0.0.0.0 ads.lasexta.com
+0.0.0.0 ads.20minutos.es
+0.0.0.0 ads.elconfidencial.com
+0.0.0.0 ads.expansion.com
+0.0.0.0 ads.larazon.es
+0.0.0.0 ads.vanitatis.elconfidencial.com
+0.0.0.0 ads.eleconomista.es
+0.0.0.0 ads.europapress.es
+0.0.0.0 ads.libertaddigital.com
+0.0.0.0 ads.publico.es
+0.0.0.0 ads.elplural.com
+0.0.0.0 ads.vozpopuli.com
+0.0.0.0 ads.elindependiente.com
+0.0.0.0 ads.noticiasdegipuzkoa.eus
+0.0.0.0 ads.diariovasco.com
+0.0.0.0 ads.elcorreo.com
+0.0.0.0 ads.lavanguardia.com
+0.0.0.0 ads.lasprovincias.es
+0.0.0.0 ads.elperiodico.com
+0.0.0.0 ads.diariodesevilla.es
+0.0.0.0 ads.diariosur.es
+0.0.0.0 ads.farodevigo.es
+0.0.0.0 ads.elcomercio.es
+0.0.0.0 ads.elprogreso.es
+0.0.0.0 ads.lavozdegalicia.es
+0.0.0.0 ads.elnortedecastilla.es
+0.0.0.0 ads.laopiniondemalaga.es
+0.0.0.0 ads.eldia.es
+0.0.0.0 ads.ultimahora.es
+0.0.0.0 ads.eldiariomontanes.es
+0.0.0.0 ads.levante-emv.com
+0.0.0.0 ads.lavozdigital.es
+0.0.0.0 ads.diariodeleon.es
+0.0.0.0 ads.elnortedecastilla.es
+0.0.0.0 ads.hoy.es
+0.0.0.0 ads.laverdad.es
+0.0.0.0 ads.noticiasdealava.eus
+0.0.0.0 ads.elcorreo.com
+0.0.0.0 ads.diarioinformacion.com
+0.0.0.0 ads.diariodeburgos.es
+0.0.0.0 ads.laopinioncoruna.es
+0.0.0.0 ads.diariodeteruel.com
+0.0.0.0 ads.elperiodicomediterraneo.com
+0.0.0.0 ads.diariodejerez.es
+0.0.0.0 ads.elcorreo.com
+0.0.0.0 ads.elperiodicoextremadura.com
+0.0.0.0 ads.diariodetoledo.es
+0.0.0.0 ads.elperiodicodearagon.com
+

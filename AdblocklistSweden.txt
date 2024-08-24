@@ -1,47 +1,47 @@
-ads.aftonbladet.se
-ads.expressen.se
-ads.dn.se
-ads.svd.se
-ads.svt.se
-ads.tv4.se
-ads.blocket.se
-ads.di.se
-ads.gp.se
-ads.metro.se
-ads.vk.se
-ads.vf.se
-ads.allehanda.se
-ads.ekuriren.se
-ads.nt.se
-ads.na.se
-ads.kuriren.nu
-ads.folkbladet.se
-ads.bt.se
-ads.blt.se
-ads.hd.se
-ads.nsd.se
-ads.dt.se
-ads.op.se
-ads.ltz.se
-ads.helagotland.se
-ads.smp.se
-ads.gd.se
-ads.unt.se
-ads.barometern.se
-ads.ostran.se
-ads.vlt.se
-ads.arbetarbladet.se
-ads.kristianstadsbladet.se
-ads.ystadsallehanda.se
-ads.trelleborgsallehanda.se
-ads.tidningenhammarby.se
-ads.hn.se
-ads.kkuriren.se
-ads.mitti.se
-ads.st.nu
-ads.sydsvenskan.se
-ads.nyheter24.se
-ads.trelleborgsallehanda.se
-ads.blt.se
-ads.nwt.se
-ads.tidningennara.se
+0.0.0.0 ads.aftonbladet.se
+0.0.0.0 ads.expressen.se
+0.0.0.0 ads.dn.se
+0.0.0.0 ads.svd.se
+0.0.0.0 ads.svt.se
+0.0.0.0 ads.tv4.se
+0.0.0.0 ads.blocket.se
+0.0.0.0 ads.di.se
+0.0.0.0 ads.gp.se
+0.0.0.0 ads.metro.se
+0.0.0.0 ads.vk.se
+0.0.0.0 ads.vf.se
+0.0.0.0 ads.allehanda.se
+0.0.0.0 ads.ekuriren.se
+0.0.0.0 ads.nt.se
+0.0.0.0 ads.na.se
+0.0.0.0 ads.kuriren.nu
+0.0.0.0 ads.folkbladet.se
+0.0.0.0 ads.bt.se
+0.0.0.0 ads.blt.se
+0.0.0.0 ads.hd.se
+0.0.0.0 ads.nsd.se
+0.0.0.0 ads.dt.se
+0.0.0.0 ads.op.se
+0.0.0.0 ads.ltz.se
+0.0.0.0 ads.helagotland.se
+0.0.0.0 ads.smp.se
+0.0.0.0 ads.gd.se
+0.0.0.0 ads.unt.se
+0.0.0.0 ads.barometern.se
+0.0.0.0 ads.ostran.se
+0.0.0.0 ads.vlt.se
+0.0.0.0 ads.arbetarbladet.se
+0.0.0.0 ads.kristianstadsbladet.se
+0.0.0.0 ads.ystadsallehanda.se
+0.0.0.0 ads.trelleborgsallehanda.se
+0.0.0.0 ads.tidningenhammarby.se
+0.0.0.0 ads.hn.se
+0.0.0.0 ads.kkuriren.se
+0.0.0.0 ads.mitti.se
+0.0.0.0 ads.st.nu
+0.0.0.0 ads.sydsvenskan.se
+0.0.0.0 ads.nyheter24.se
+0.0.0.0 ads.trelleborgsallehanda.se
+0.0.0.0 ads.blt.se
+0.0.0.0 ads.nwt.se
+0.0.0.0 ads.tidningennara.se
